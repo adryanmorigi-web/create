@@ -1,0 +1,57 @@
+
+
+body {
+  background-color: orange;
+  text-align: center;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+
+header {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline; 
+  margin: 0 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+h2 {
+  display: inline-block;
+  padding: 10px 30px;
+  border: 2px solid white;
+  box-shadow: 0 0 15px white; 
+  cursor: pointer;
+}
+img {
+  width: 80%;           
+  max-width: 600px;     
+  height: auto;        
+  
+  border: 5px solid white; 
+  border-radius: 15px;    
+  display: block;         
+  margin: 20px auto;      
+}
+.cristianoRONALDO {
+  background-color: lightgrey; 
+  color: black;              
+  padding: 15px;              
+  border-radius: 8px;       
+  display: inline-block;      
+  margin: 20px 0;           
+}
